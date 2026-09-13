@@ -1,73 +1,30 @@
-# EDMONDX PROFILE
+# Hi, I'm piratecandle 🏴‍☠️🕯️
 
-> [ WARNING: CRINGE AREA ]
-## 😂 CORE_ABSTRACTION!? 
-```ansi
- [1;37m █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  [0m
- [1;30m █   [1;37mHOST_ID [0m     : EdmondxTerminal                                      █  [0m
- [1;30m █   [1;37mOVERLORD [0m    : G.O.A.T. LEVEL CODE RE-ENGINEERING                   █  [0m
- [1;30m █   [1;37mSTATUS [0m      : INJECTING EXCEPTION SEQUENCE TO REALITY              █  [0m
- [1;30m █   [1;37mDIRECTIVE [0m   : "Complexity is an illusion. Crash the paradigm."      █  [0m
- [1;37m █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  [0m
-```
+Welcome to my digital space! While this profile holds my code, scripts, and tech experiments, this page is a little window into who I am outside of the editor—my favorite things, daily rituals, and what keeps me inspired.
 
 ---
 
-##  MANDATORY_INSTRUCTION
+## 🌟 My Favorite Things
 
-> # CHANGE YOUR MINDSET!
-> ```none
-> ┌────────────────────────────────────────────────────────┐
-> │ OLD: If it works, don't touch it.                      │
-> │ NEW: Break it deliberately. Rebuild it as a Monolith.  │
-> └────────────────────────────────────────────────────────┘
-> ```
+### ☕ Daily Rituals & Comforts
+* **Beverage of Choice:** A perfectly brewed cup of coffee (or tea) to kickstart the day.
+* **Ambient Sound:** The sound of heavy rain on the window while working or reading.
+* **Routine:** Going for long, unstructured walks to clear my head and get away from screens.
 
----
+### 📚 Media & Entertainment
+* **Genres:** Massive fan of Sci-Fi, fantasy worldbuilding, and mystery thrillers.
+* **Gaming:** I love games with rich atmosphere, puzzle-solving mechanics, or unique pixel art styles.
+* **favorite Music:** if I could say it. I would say it! > dinner is not over, I want things to be beautiful, earrings,
 
-## SYSTEM_CAPABILITIES // Operational Focus
-
-- **Asynchronous Execution Engine** — Prioritizing non-blocking, event-driven backend architectures.
-- **Dependency Elimination** — Stripping unnecessary packages to achieve lightning-fast runtime performance.
-- **Structural Refactoring** — Deliberately breaking and hardening legacy layers until they are unbreakable.
+### Creative Outlets
+* **Photography:** Capturing interesting things, people style, and funny things with my friends in pony town 🤯
+* **places you always see me:** a place in pony town. for usually. in safe server 1. I will be around the library! . in safe server 2. will heh. mostly around the map 🥹🥹
 
 ---
 
-## MEMORY_CORRUPTION_DUMP
-```ansi
- [1;37m[CRASH_DUMP] ─── INITIALIZING CRITICAL FAULT SEQUENCE ─── [0m
- [1;30m[STACK_VAL ] 0x7F_EDMONDX_TERMINAL -> STACK_OVERFLOW_GOAT_MODE [0m
+## My Philosophy & Vibe
 
- [1;37m[MEME_LOG  ] Local Machine: "Flawless compilation in 0.02s." [0m
- [1;30m[MEME_LOG  ] Production   : *Melts structural grid into charcoal carbon* [0m
-
- [1;37m[RE-WRITE  ] Senior Architect: "We need modular, clean architectures." [0m
- [1;30m[RE-WRITE  ] EdmondxTerminal : *Wraps entire legacy application in a single try-catch* [0m
-
- [1;37m[TERMINAL  ] git commit -m "forced push to main without review" [0m
- [1;30m[TERMINAL  ] [!] 452 conflicts detected. Pipeline status: DEAD. [0m
-```
-
----
-
-## 🔎 STACK_FRAME_METADATA // Register Allocation
-
-```ini
-[RUNTIME_FLAGS]
-GARBAGE_COLLECTOR = BYPASSED
-LOG_LEVEL        = VERBOSE_EXCEPTIONS
-OPTIMIZATION     = GOAT
-
----
-
-## MATRIX_INSIGHT
-
-> [!NOTE]
-> *"Simplicity is the ultimate sophistication. When systems collapse, only clean logic survives.."*
-
-```bash
-\$ edmondx --shutdown --force
-> Session Terminated!!
-> [0x00_GOATSTATUS OUT!]
-```
-
+* **Curiosity First:** I believe the best way to learn is by taking things apart and figuring out how they work 🤔🗣️
+* **Minimalism:** Keeping spaces, code, and daily life clean, organized, and intentional 🤯
+* **Constant Evolution:** Small, daily habits compound over time to create meaningful progress!! 🤗🔥
+* **Shedding Light:** Just like a candle, I enjoy bringing clarity to complex problems and sharing what I learn along the way! 👀
