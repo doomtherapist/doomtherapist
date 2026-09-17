@@ -39,7 +39,7 @@ Healing is a continuous integration and continuous deployment (CI/CD) process. W
 ---
 ---
 
-## we care about your heath.
+## we care about your health.
 
 ```go
 "You aren’t responsible for the way your past has shaped you, but you’re responsible to fix and correct that shape."
