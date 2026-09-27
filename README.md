@@ -1,10 +1,9 @@
-# welcome to my profile! 
+## welcome to my profile! 
 ![My Profile Photo](clark-backrooms.gif
 )
-(**this profile**) *used for every visitor to contact or even check out a custom page, tell me if you want to contact me in strawpage! also freely flow contact. a great-time group always shine! contact in telegram!*
---- 
-## 
-
+---
+### this profile is used for all the visitors to contact and check out a custom page that are completely made by human! and also I opened a blinkies and stamps shop in strawpage, go check it out! 
+---
 Follow the first step so you can contact me! 
 
 ### please don't contact me if you are.. 
