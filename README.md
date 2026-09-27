@@ -20,7 +20,7 @@ Follow the first step so you can contact me!
     
 **STAY IN CHARACTER!!**,  
 **STAY IN CHARACTER!!**,  
-**STAY IN CHARACTER!!!**
+
 ![My Profile Photo](backrooms-captain-clark.gif)
 
 did he said he was a architect
