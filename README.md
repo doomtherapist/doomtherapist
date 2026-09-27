@@ -1,6 +1,7 @@
-# my profile! 
-![My Profile Photo](djqqundcap0h1.jpg)
-(**this profile**) *used for every visitor to contact or even check out a custom page, tell me if you want to contact me in strawpage! also freely flow contact. a great-time group always shine!*
+# welcome to my profile! 
+![My Profile Photo](clark-backrooms.gif
+)
+(**this profile**) *used for every visitor to contact or even check out a custom page, tell me if you want to contact me in strawpage! also freely flow contact. a great-time group always shine! contact in telegram!*
 --- 
 ## 
 
