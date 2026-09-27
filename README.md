@@ -16,7 +16,8 @@ Follow the first step so you can contact me!
 **for a first time in a long time**, 
 **i like it in here..**   
 **I don't think I want to change**
-![My Profile Photo](backrooms-backrooms-movie.gif)     >
-  **STAY IN CHARACTER!!**,  
-  **STAY IN CHARACTER!!**,  
-  **STAY IN CHARACTER!!!!** 
+![My Profile Photo](backrooms-backrooms-movie.gif) 
+    
+**STAY IN CHARACTER!!**,  
+**STAY IN CHARACTER!!**,  
+**STAY IN CHARACTER!!!**
