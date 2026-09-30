@@ -9,7 +9,7 @@ Follow the first step so you can contact me!
 ### please don't contact me if you are.. 
 ---
 - homophobic / racism
-- always bully everyone with their appearance
+- always bully everyone with their appearance / m.a.p people +  Zoophile people
 ---
 ## random post wikilol
 ![My Profile Photo](clark-backrooms.png)
