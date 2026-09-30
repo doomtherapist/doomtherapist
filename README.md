@@ -1,4 +1,4 @@
-$${\color{#ED9B34}\Huge{\texttt{hello there!! welcome to my profile!❤}}}$$
+$${\color{#ED9B34}\Huge{\texttt{hello there!! welcome to my profile!}}}$$
 <!-- Centered and resized GIF -->
 <p align="center">
   <img src="clark-backrooms.gif" width="470" alt="My Profile Animation">
