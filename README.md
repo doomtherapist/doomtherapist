@@ -21,7 +21,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   <table>
     <tr>
       <td>
-    personal & pride flags -  i was a 15 years old and im demi girl, non-binary and lithsexual<br>
+    age & pride flags -  i was a 15 years old and im demi girl, non-binary and lithsexual<br>
     dislikes -  i dont like M.A.P people, Zoophile people and homophobic people because it's disgusting<br>
        likes - supportful people, helpers, true friends and kindful people❤ <br>
 favorite colors - yellow, bluestone, bright green, dark blue and baby blue 😁<br>
