@@ -36,3 +36,6 @@ favorite colors - yellow, bluestone, bright green, dark blue and baby blue 😁<
   <!-- Your LaTeX colored text directly below -->
   $${\color{#63511A}still\space work\space in\space progress!}$$
 </div>
+
+![Views](https://komarev.com/ghpvc/?username=doomtherapist&color=DEB223)
+
