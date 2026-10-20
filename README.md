@@ -66,7 +66,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   • Atabook Status: Checked routinely when active<br>
   • do not ask: sexual things and weird things
 <br>
-[GMT+7 ONLY!!]
+[GMT+7 timezone]
 
   <!-- Your LaTeX colored text directly below -->
   $${\color{#63511A}still\space work\space in\space progress!}$$
