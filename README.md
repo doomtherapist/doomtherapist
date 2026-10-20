@@ -15,19 +15,31 @@ $${\color{#e8c827}\Huge{\texttt{hello there!!}}}$$
 you can find me in pony town, sometimes i'll sit near the libary! go ahead and say hello to me! but i might be busy so i might won't chat back :)
   <br><br>
   
-  <!-- Your LaTeX colored text directly below -->
-  $${\color{#d9b814}THINGS\space YOU\space NEED\space TO\space KNOW\space BEFORE\space INTERACT!!}$$
-</div>
-  <table>
-    <tr>
-      <td>
-    age & pride flags -  i was a 15 years old and im demi girl, non-binary and lithsexual<br>
-    dislikes -  i dont like M.A.P people, Zoophile people, homophobic people and pred people because it's disgusting<br>
-       likes - supportful people, helpers, true friends and kindful people❤ <br>
-favorite colors - yellow and bright green<br>
-      </td>
- <tr>
-  <table>
+<table>
+  <tr>
+    <!-- Left Column: Info & Colors -->
+    <td width="50%" valign="top">
+      <h3><font size="2" style="font-variant: small-caps;">Profile Info</font></h3>
+      <p><b><font size="2" style="font-variant: small-caps;">Age & Pride Flags</font></b><br><font size="2" style="font-variant: small-caps;">I am 15 years old and I'm a demigirl, non-binary, and lithsexual.</font></p>
+      <p><b><font size="2" style="font-variant: small-caps;">Favorite Colors</font></b><br><font size="2" style="font-variant: small-caps;">Yellow and bright green</font></p>
+    </td>
+    <!-- Right Column: Likes & Dislikes -->
+    <td width="50%" valign="top">
+      <h3><font size="2" style="font-variant: small-caps;">likes and dislikes</font></h3>
+      <p><b><font size="2" style="font-variant: small-caps;">Likes</font></b><br><font size="2" style="font-variant: small-caps;">Supportive people, helpers, true friends, and kind people</font></p>
+      <p><b><font size="2" style="font-variant: small-caps;">Dislikes</font></b><br><font size="2" style="font-variant: small-caps;">I don't like MAPs, zoophiles, homophobic people, and predators because they are disgusting.</font></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 <!-- Centered and resized GIF -->
 <p align="center">
