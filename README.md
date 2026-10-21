@@ -85,8 +85,14 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 <!-- Centered profile photo with fixed width -->
 <p align="center">
-  <img src="Cap27s_Rip_Off.webp" width="500" alt="My Photo">
+  <img src="images (15).jpeg" width="500" alt="My Photo">
 </p>
+
+---
+
+<!-- Your LaTeX colored text directly below -->
+  $${\color{#63511A}still\space work\space in\space progress!}$$
+</div>
 
 
 
