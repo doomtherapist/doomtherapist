@@ -65,6 +65,10 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   <img src="Backrooms_Logo.png" alt="Blinkie 1" />
 </div>
 
-  <!-- Your LaTeX colored text directly below -->
-  $${\color{#63511A}still\space work\space in\space progress!}$$
-</div>
+<img src="images (13).jpeg" align="right" width="250" alt="Profile Image" />
+
+<p align="center">
+  <img src="Screenshot_2024-11-04_11.10.27_AM.png" width="200" alt="Profile Image" />
+</p>
+
+
