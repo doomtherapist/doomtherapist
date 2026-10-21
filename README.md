@@ -79,4 +79,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 | **Pronouns** | 💬 they / them |
 | **Interests** | fossils, puzzles and more songs |
 
+<p align="left">
+  <img src="IMG_8057.jpg" width="150" height="150" style="border-radius: 50%;" alt="Circular Avatar">
+</p>
 
