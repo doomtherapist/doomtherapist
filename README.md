@@ -31,15 +31,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
+ <br><br>
 
 <!-- Centered and resized GIF -->
 <p align="center">
@@ -67,9 +59,12 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   • do not ask: sexual things and weird things
 <br>
 [GMT+7 timezone]
+<br>
+
+<div align="center">
+  <img src="Backrooms_Logo.png" alt="Blinkie 1" />
+</div>
 
   <!-- Your LaTeX colored text directly below -->
   $${\color{#63511A}still\space work\space in\space progress!}$$
 </div>
-
-
