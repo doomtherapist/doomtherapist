@@ -71,4 +71,12 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   <img src="Screenshot_2024-11-04_11.10.27_AM.png" width="200" alt="Profile Image" />
 </p>
 
+| Attribute | Details |
+| :--- | :--- |
+| **true nickname** | anlas |
+| **Location** | 📍 nakhon pathom, thailand |
+| **Current Focus** | learning about making more codes |
+| **Pronouns** | 💬 they / them |
+| **Interests** | fossils, puzzles and more songs |
+
 
