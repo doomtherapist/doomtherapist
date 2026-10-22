@@ -86,16 +86,14 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 ---
 
 <div align="center">
-  <p><b>Bandcamp: https://kanepixels.bandcamp.com
-Spotify: https://open.spotify.com/artist/2eIAr
- all from kane pixels / kane parsons 
-    
-Backrooms OST</b></font></p>
-  <a href="https://youtube.comhttps://www.youtube.com/watch?v=CYO7hU8txhI&list=PL3Dt5wce4cGLRqZdZOqLxJduShrz_mOjS&index=1">
+  <p><font color="#FFD700"><b>backrooms OST</b></font></p>
+  <a href="https://www.youtube.com/watch?v=dDFbTYYPLPMlist=PL3Dt5wce4cGLRqZdZOqLxJduShrz_mOjS&index=3">
     <img src="images (17).jpeg" width="400" alt="Click to Play Playlist" />
   </a>
-  <p align="center"><font size="2"><i>Click the image to play osts from youtube!</i></font></p>
 </div>
+
+<p align="center"><font size="2" color="#dedede"><i>Click the image!!!</i></font></p>
+
 
   <!-- Your LaTeX colored text directly below -->
   $${\color{#63511A}still\space work\space in\space progress!}$$
