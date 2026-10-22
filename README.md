@@ -47,7 +47,23 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   <!-- Your LaTeX colored text directly below -->
   $${\color{#d9b814}my\space personality\space i\space guess👀}$$
 <br>
-<p align="left"><mark><i>generally a pretty chill, thoughtful, and creative person who likes to take things slow and just see how things flow. I’m not really one to jump into high-energy drama instead, I prefer keeping my space relaxed and comfortable. When I connect with people who are genuinely kind and supportive, I naturally open up and enjoy sharing my creative side or just hanging out and keeping the vibe peaceful. If you are a true friend or someone who sincerely likes helping others, you can count on me to have your back, I’m a really loyal friend and a good listener when people need an anchor. Because I value a safe and calm environment, I don’t let toxic energy or hostile people throw me off my game. If I run into homophobia, judgmental mindsets, or predators, I don’t waste my energy arguing or stressing out about it. I just quietly set a firm boundary, completely tune them out, and walk away to protect my peace of mind. For me, life is all about spending my time on honest connections and surrounding myself with people who bring out genuine good vibes</i></mark></p>
+
+```html
+<p align="left">
+  <mark><i><b>Thoughtful, creative, and chill.</b> I approach both design and code with a focused, quiet energy, enjoying the process of bringing ideas to life through art and clean layouts.</i></mark>
+</p>
+```
+
+### The Mindset
+* **Thoughtful Execution** · Taking time to plan out details and build things with clear intent.
+* **Creative Expression** · Always looking for unique visual styles, minimal designs, and artistic layouts.
+* **Chill Atmosphere** · Keeping a calm, low-stress approach to learning, creating, and collaborating.
+
+---
+<p align="center">
+  <sub>Operating in the GMT+7 timezone.</sub>
+</p>
+
 
 ###  online Schedule and Activity + atabook
 <br>
