@@ -44,27 +44,6 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 <br>
 <p align="left"><mark><i>As an ESFP-A people!, my relationships with people and how I interact with the social world are defined by a mix of real time adaptability, unshakeable confidence, and a deep, intuitive appreciation for absolute authenticity. When I am interacting with supportive, open-minded, and kindful individuals, my natural response is to be completely present in the moment sharing my high energy, building a safe haven for good vibes, and matching their warmth step-for-step. I react to true friends and genuine helpers with an unwavering, fierce loyalty, always looking for spontaneous ways to encourage them, celebrate their wins, and lift them up whenever they need a trusted ally by their side. At the same time, being an assertive personality type gives me the unique emotional strength to navigate difficult, complicated, or hostile social situations without absorbing other people's negative traits or letting them ruin my day. When faced with judgmental, unsafe, or harmful mindsets, such as homophobia, hostility, or predatory behaviors. my reaction is swift, incredibly clear, and entirely uncompromising. I firmly shut out the background noise, refuse to tolerate any form of disrespect, and confidently maintain a peaceful, secure environment for myself and the community I care about. I choose to invest my heart and energy entirely in uplifting, honest relationships that celebrate mutual kindness, moving forward with an optimistic mindset and keeping my social circle focused strictly on positivity</i></mark></p>
 
-  <!-- Your LaTeX colored text directly below -->
-  $${\color{#d9b814}my\space personality\space i\space guess👀}$$
-<br>
-
-```html
-<p align="left">
-  <mark><i><b>Thoughtful, creative, and chill.</b> I approach both design and code with a focused, quiet energy, enjoying the process of bringing ideas to life through art and clean layouts.</i></mark>
-</p>
-```
-
-### The Mindset
-* **Thoughtful Execution** · Taking time to plan out details and build things with clear intent.
-* **Creative Expression** · Always looking for unique visual styles, minimal designs, and artistic layouts.
-* **Chill Atmosphere** · Keeping a calm, low-stress approach to learning, creating, and collaborating.
-
----
-<p align="center">
-  <sub>Operating in the GMT+7 timezone.</sub>
-</p>
-
-
 ###  online Schedule and Activity + atabook
 <br>
 </div align="left">
