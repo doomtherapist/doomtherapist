@@ -85,8 +85,11 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 ---
 
-<!-- Your LaTeX colored text directly below -->
-  $${\color{#63511A}still\space work\space in\space progress!}$$
+<div align="center">
+  <p><font color="#FFD700"><b>test</b></font></p>
+  <a href="[https://www.youtube.com/watch?v=-K-euTITeWo&list=PL3Dt5wce4cGLRqZdZOqLxJduShrz_mOjS&index=2]">
+    <img src="images (17).jpeg" width="400" alt="Click to Play Playlist" />
+  </a>
 </div>
 
 
