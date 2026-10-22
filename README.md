@@ -87,7 +87,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 <div align="center">
   <p><font color="#FFD700"><b>backrooms OST</b></font></p>
-  <a href="https://www.youtube.com/watch?v=dDFbTYYPLPMlist=PL3Dt5wce4cGLRqZdZOqLxJduShrz_mOjS&index=3">
+  <a href="https://www.youtube.com/watch?v=CYO7hU8txhI&list=PL3Dt5wce4cGLRqZdZOqLxJduShrz_mOjS&index=1)">
     <img src="images (17).jpeg" width="400" alt="Click to Play Playlist" />
   </a>
 </div>
