@@ -9,7 +9,7 @@ $${\color{#e8c827}\Huge{\texttt{hello there!!}}}$$
   $${\color{#e8c827}sometimes\space rarely\space updated\space because\space i\space need\space to\space study\space😓}$$
 </div>
   
-  $${\color{#e8c827}this\space profile\space is\space used\space for\space all\space the\space visitors\space to\space contact\space and\space check\space out\space a\space custom\space page\space that\space are\space completely\space made\space by\space human!\space and\space please\space sign\space in\space atabook!!}$$
+  $${\color{#e8c827}this\space profile\space is\space used\space for\space all\space the\space visitors\space to\space check\space out\space a\space custom\space page\space that\space are\space completely\space made\space by\space human!\space and\space please\space sign\space in\space atabook!!}$$
 </div>
 
 you can find me in pony town, sometimes i'll sit near the libary! go ahead and say hello to me! but i might be busy so i might won't chat back :)
