@@ -1,8 +1,7 @@
 $${\color{#e8c827}\Huge{\texttt{hello there!!}}}$$
 <!-- Centered and resized GIF -->
 <p align="center">
-  <img src="Name		
-06a312bbcd6c41cfadaa053223c0f650.jpg" width="490" alt="My Profile Animation">
+  <img src="06a312bbcd6c41cfadaa053223c0f650.jpg" width="490" alt="My Profile Animation">
 </p>
 <br><br>
    
@@ -36,7 +35,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 <!-- Centered and resized GIF -->
 <p align="center">
-  <img src="images (12).jpeg" width="350" alt="My Profile Animation">
+  <img src="IMG_33e179a1-fa19-49ae-822e-87ea6739fb22.jpg" width="350" alt="My Profile Animation">
 </p>
 <br><br>
 
@@ -61,7 +60,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
   <img src="Backrooms_Logo.png" alt="Blinkie 1" />
 </div>
 
-<img src="images (13).jpeg" align="right" width="250" alt="Profile Image" />
+<img src="Mary_backrooms.webp" align="right" width="250" alt="Profile Image" />
 
 <p align="center">
   <img src="Screenshot_2024-11-04_11.10.27_AM.png" width="200" alt="Profile Image" />
