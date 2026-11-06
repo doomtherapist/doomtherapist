@@ -122,10 +122,6 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 ---
 
-### hello!!
-<p align="left">
-  <img src="https://vercel.app" alt="Random Quote" />
-</p>
 
 
 
