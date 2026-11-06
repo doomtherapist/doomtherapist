@@ -1,7 +1,8 @@
 $${\color{#e8c827}\Huge{\texttt{hello there!!}}}$$
 <!-- Centered and resized GIF -->
 <p align="center">
-  <img src="Kane-Parsons.png" width="490" alt="My Profile Animation">
+  <img src="Name		
+06a312bbcd6c41cfadaa053223c0f650.jpg" width="490" alt="My Profile Animation">
 </p>
 <br><br>
    
