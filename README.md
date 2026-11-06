@@ -75,12 +75,7 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 | **Interests** | fossils, puzzles and more songs |
 
 <p align="left">
-  <img src="IMG_8057.jpg" width="180" height="190" style="border-radius: 50%;" alt="Circular Avatar">
-</p>
-
-<!-- Centered profile photo with fixed width -->
-<p align="center">
-  <img src="images (15).jpeg" width="500" alt="My Photo">
+  <img src="048658e38ae657989a90336d77dc9432.webp" width="230" height="195" style="border-radius: 50%;" alt="Circular Avatar">
 </p>
 
 ---
