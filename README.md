@@ -91,10 +91,40 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 ---
 
+<div align="center">
+  <p><font color="#FFD700"><b>favourite musics</b></font></p>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <p><font color="#FFD700"><b>Earrings</b></font></p>
+        <a href="https://www.youtube.com/watch?v=a4tdS3IB294">
+          <img src="artworks-gsAYqlsstfWL-0-t500x500.jpg" width="100%" alt="play song 1" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <p><font color="#FFD700"><b>Loose canon</b></font></p>
+        <a href="https://www.youtube.com/watch?v=v3KIlTfYIb4">
+          <img src="images (19).jpeg" width="100%" alt="play song 2" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <p><font color="#FFD700"><b>Waiting for you</b></font></p>
+        <a href="https://www.youtube.com/watch?v=7fFGAM3mJKQ">
+          <img src="images (20).jpeg" width="100%" alt="play song 3" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="left"><font size="2" color="#dedede"><i></i></font></p>
+
+---
+
   <!-- Your LaTeX colored text directly below -->
   $${\color{#63511A}still\space work\space in\space progress!}$$
 </div>
-
 
 
 
