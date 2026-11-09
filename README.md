@@ -128,6 +128,10 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 Thanks for checking out my profile, have a great time! (˵•̀ᴗ - ˵ ) 
 </details>
 
+> [!IMPORTANT]
+> I have alot of things to do so sometimes I won't update! 
+
+
 
 
 
