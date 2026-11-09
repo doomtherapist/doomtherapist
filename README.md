@@ -122,6 +122,13 @@ you can find me in pony town, sometimes i'll sit near the libary! go ahead and s
 
 ---
 
+<details>
+<summary><b>Click to open a message</b></summary>
+<br>
+Thanks for checking out my profile, have a great time! (˵•̀ᴗ - ˵ ) 
+</details>
+
+
 
 
 
